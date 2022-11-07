@@ -10,7 +10,7 @@ module.exports = {
       },
 
       backgroundImage: {
-        app: 'url(app-bg.png)'
+        app: 'url(/app-bg.png)'
       },
 
       colors: {
